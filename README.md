@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper
 Minesweeper Game using Java Swing
 
 When the application is opened, the first frame should be displayed. It will show the title of the game, a choice of difficulty, and a button to start the game. 
